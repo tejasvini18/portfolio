@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tejasvini18.github.io/portfolio/sitemap.xml
